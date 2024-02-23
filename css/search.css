@@ -36,8 +36,9 @@ body {
     border: 0;
     font-size: 18px;
     height: 50px;
-    width: 200ox;
+    width: 50px;
     padding: 15px;
+    transition: width 3s ease
 }
 
 .search .input:focus {
