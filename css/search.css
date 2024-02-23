@@ -37,7 +37,6 @@ body {
     height: 50px;
     width: 200ox;
     padding: 15px;
-    box-sizing: border-box;
 }
 
 .search .input:focus {
@@ -49,5 +48,5 @@ body {
 }
 
 .search.active .btn {
-    
+    transform: translateX(198px);
 }
