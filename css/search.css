@@ -25,8 +25,8 @@ body {
      font-size: 24px;
      background-color: white;
      border: 0;
-     height: 50px;
-     width: 50px;
+     height: 80px;
+     width: 75px;
      cursor: pointer;
      transition: transform 3s ease;
 }
