@@ -1,7 +1,7 @@
 
 
 * {
-    
+
 }
 
 body {
@@ -27,6 +27,7 @@ body {
      border: 0;
      height: 50px;
      width: 50px;
+     cursor: pointer;
 }
 
 .search .input {
@@ -37,4 +38,16 @@ body {
     width: 200ox;
     padding: 15px;
     box-sizing: border-box;
+}
+
+.search .input:focus {
+    outline: none;
+}
+
+.search.active .input {
+    width:200px;
+}
+
+.search.active .btn {
+    
 }
