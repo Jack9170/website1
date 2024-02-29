@@ -1,4 +1,6 @@
-
+* {
+    box-sizing: border-box;
+}
 
 body {
     height: 100vh;
@@ -21,6 +23,7 @@ body {
     border-radius: 50px;
     color: white;
     cursor: pointer;
-    flex; 0.5
+    flex; 0.5;
+    margin: 10px;
 }
 
