@@ -1,6 +1,15 @@
 
 
 body {
-    background-color: rgb(65,98,145);
+    background-color: rgb(76,122,98);
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+}
 
+
+.btn {
+    background-color: rebeccapurple
 }
