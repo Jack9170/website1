@@ -1,4 +1,8 @@
 
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
+
+
+
 
 body {
     background-color: rgb(76,122,98);
@@ -19,4 +23,9 @@ body {
     border: none;
     color: rgb(255,255,255);
     cursor: pointer;
+    font-family: "Josefin Sans", sans-serif;
+}
+
+.btn:hover {
+    opacity: 0.9
 }
