@@ -21,7 +21,7 @@ body {
 }
 
 .hero {
-    background-image: url(images/image3.jpg);
+    background-image: url(laughing./image3.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: bottom center;
@@ -63,5 +63,7 @@ body {
 }
 
 .content p {
-    color: #555;
+    color: #556;
+    line-height: 30px;
+    letter-spacing: 1.2;
 }
