@@ -21,11 +21,11 @@ body {
 }
 
 .hero {
-    background-image: url(images/laughing.jpg);
+    background-image: url(images/download.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: bottom center;
-    height: 100vh;
+    height: 200vh;
     color: white;
     display: flex;
     justify content: center;
@@ -66,4 +66,13 @@ body {
     color: #556;
     line-height: 30px;
     letter-spacing: 1.2;
+}
+
+.nav {
+    position: fixed;
+    background-color: #222;
+    top: 0;
+    left: 0;
+    right: 0;
+    transition: all 0.3s ease-in-out;
 }
