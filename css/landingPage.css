@@ -81,3 +81,7 @@ header h1 {
 header p {
     margin: 30px 0;
 }
+
+button {
+    background-color: var(--secondary-color);
+}
