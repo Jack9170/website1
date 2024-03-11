@@ -7,5 +7,5 @@ toggle.addEventListener('click', () => {
 })
 
 open.addEventListener('click', () => {
-    modal
+    modal.classList.add('show-model')
 })
