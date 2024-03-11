@@ -26,7 +26,7 @@ nav {
     border-right: 2px solid rgba(200,200,200, 0.4);
     z-index: 100;
     color: white;
-    /*transform: translateX(-115%) */
+    transform: translateX(-115%);
 }
 
 nav .logo {
