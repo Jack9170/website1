@@ -1,6 +1,6 @@
-<style>
+
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
-</style>
+
 * {
     box-sizing: border-box;
 }
@@ -11,7 +11,8 @@ body {
     align-items: center;
     justify-content: center;
     margin: 0;
-}   font-family: "Roboto Mono"
+   font-family: "Roboto Mono";
+}
 
 .containter {
     width: 90vw;
@@ -26,7 +27,7 @@ body {
     border-radius: 50px;
     color: white;
     cursor: pointer;
-    flex; 0.5;
+    flex: 0.5;
     margin: 10px;
     position: relative;
     transition: flex 1s ease-in;
