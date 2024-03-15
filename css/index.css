@@ -7,15 +7,15 @@ body {
     font-size: 150%;
 }
 
-links .image {
-        
+.links .image {
+    
 }
 
-links ul li a {
+.links ul li a {
     color: white;
     text-decoration: none;
 }
 
-links ul li a:hover {
+.links ul li a:hover {
     text-decoration: underline;
 }
