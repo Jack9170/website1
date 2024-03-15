@@ -1,15 +1,21 @@
-@import url('https://fonts.googleapis.com/css2?family=Whisper&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
 
-* {
-
-}
 
 body {
-    background-color: tan;
-    font-family: "Whisper", cursive;
+    background-color: rgb(155,207,140);
+    font-family: "Shadows Into Light", cursive;
     font-size: 150%;
 }
 
-.links {
+links .image {
+        
+}
 
+links ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+links ul li a:hover {
+    text-decoration: underline;
 }
